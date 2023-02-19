@@ -11,4 +11,4 @@ spring:
           default-label: master
           search-paths: config1
   profiles:
-    active: dev
+    active: pro
